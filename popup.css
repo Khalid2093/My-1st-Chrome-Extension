@@ -1,0 +1,14 @@
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+main {
+  padding: 40px;
+  width: max-content;
+  margin: auto;
+}

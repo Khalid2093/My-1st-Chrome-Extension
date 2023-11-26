@@ -1,0 +1,574 @@
+{
+  "id": 308180966,
+  "name": "Ruma Rao",
+  "first_name": null,
+  "last_name": null,
+  "title": "Vice President - Employee Engagement, D&I, Business Excellence at Tata Consumer Products",
+  "url": "https://www.linkedin.com/in/rumarao",
+  "hash": "e1b0d809470d7df863217b75d66cc1cd",
+  "location": "Mumbai, Maharashtra, India",
+  "industry": "Human Resources",
+  "summary": null,
+  "connections": "500+ connections",
+  "recommendations_count": "1",
+  "logo_url": "https://media-exp1.licdn.com/dms/image/C5103AQFBbOHA74JNMA/profile-displayphoto-shrink_200_200/0/1551719568842?e=1654128000&v=beta&t=E29vXQrVXxAb498O0QmiRXZP6MNxKjXx7JOyMB-99Vo",
+  "last_response_code": 200,
+  "created": "2016-09-21 01:15:31",
+  "last_updated": "2022-03-28 23:12:00",
+  "outdated": 0,
+  "deleted": 0,
+  "country": "India",
+  "connections_count": 65535,
+  "experience_count": 0,
+  "last_updated_ux": 1648509120,
+  "member_shorthand_name": "rumarao",
+  "member_shorthand_name_hash": "d56dce35b8a4895edee523a7ac12442c",
+  "canonical_url": "https://in.linkedin.com/in/rumarao",
+  "canonical_hash": "3e1b9cc5bb14f863785ac4b1100a04a6",
+  "canonical_shorthand_name": "rumarao",
+  "canonical_shorthand_name_hash": "d56dce35b8a4895edee523a7ac12442c",
+  "member_also_viewed_collection": [
+    {
+      "id": 4775164399,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ritikalal?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164400,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/dhanyarajeswaran?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164401,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/mahzarine-jogani-b63629a?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164402,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/shubhra-sharma-6a51ab6?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164403,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/amitchincholikar?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164404,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/priyadarshini-gupta-86555ab?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164405,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/psshahani?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164406,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/sarikagupta?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164407,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/kaizad-sethna-329b7219?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 4775164408,
+      "member_id": 308180966,
+      "url": "https://au.linkedin.com/in/catherina-behan?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2018-06-12 06:33:53",
+      "last_updated": "2019-07-10 04:03:56",
+      "deleted": 1
+    },
+    {
+      "id": 7796376122,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/jennifer-manchikanti-16414a49?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376123,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/priyadarshini-gupta-86555ab?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376124,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/pooja-joshi-a207bb17?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376125,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/chawlamala?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2019-08-13 03:48:32",
+      "deleted": 1
+    },
+    {
+      "id": 7796376126,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/prutha-c-h-862b1a18?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376127,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/nupur-singh-mallick-56a3181?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376128,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/sheetal-rajani-26622b28?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376129,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/saleelp?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376130,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ravindrakumargp?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 7796376131,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/sunita-wazir-33075b5?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2019-08-13 03:48:32",
+      "deleted": 1
+    },
+    {
+      "id": 8048708856,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/9121972?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-08-13 03:48:32",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 8048708857,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/shankari-n-28736810?trk=public_profile_browsemap_mini-profile_title",
+      "title": null,
+      "location": null,
+      "created": "2019-08-13 03:48:32",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 22524063106,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/nikmathur",
+      "title": "Vice President Human Resources at Tata Consumer Products",
+      "location": "Bengaluru",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063107,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/adit-ahuja-6965049",
+      "title": "Vice President - Talent & Learning at Tata Consumer Products",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063108,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/akanshadixit",
+      "title": "Head- Planning Foods & Beverages at Tata Consumer Products",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063109,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/amitchincholikar",
+      "title": "Global Chief Human Resources Officer at Tata Consumer Products",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063110,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/navjot-mehra-472b536b",
+      "title": "HR Partner @Tata Consumer Products Ltd. | Value Creator | Change Enabler",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063111,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/himanshu-agrawal-16400158",
+      "title": "Tata Consumer Products Limited|JK Organisation| Adani Wilmar",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063112,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/rustom-vesavevala-345a1112",
+      "title": "Vice President Learning & Development at Indian Hotels Co. Ltd.",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063113,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/priyadarshini-gupta-86555ab",
+      "title": "Diversity & Inclusion Lead at Tata Group",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063114,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/pgroy",
+      "title": "Business & Digital Transformation Leader@NTT I Reg Council Member & Past Chair of Sales & Marketing Council@NASSCOM I Gov Board Member I Visiting Faculty  I Certified Leadership Coach  I Evangelist of Servant Leadership",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063115,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/atanupramanic",
+      "title": "Joint President & Chief Information Officer at HINDALCO - An ABG Group Company",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063116,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/sreeja-bhowal",
+      "title": "Manager at Accenture Strategy | ex-Mahindra GMC | Digital Product & Transformation | Customer Journey Analytics",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063117,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/madhura-katageri",
+      "title": "Project Manager at Philips Healthcare | IIFT Delhi | Ex-Nomura",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063118,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/sameer-nagarajan-6709635",
+      "title": "Global President Human Resources at Cadila Pharmaceuticals Ltd",
+      "location": "Ahmedabad",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063119,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/maia-katrak-a4668317",
+      "title": "Owner, The REPUBLIC",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063120,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/samir-palsule-04988324",
+      "title": "Strategy & Risk Excellence ! Business Excellence ! Operational Excellence ! Improvement Management ! Transforming cultures ! Six Sigma certified ! Certified Assessor to various Excellence models ! Auditor for QMS, EHS",
+      "location": "Thane",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063121,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/manojindulkar",
+      "title": "Operations Head - India Business at Tata Consultancy Services",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063122,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/rajeshsethi99",
+      "title": "#BPOtech | Digital Transformation for the BPOs | Lean Culture, Design for Six Sigma, Agile Automation, Analytics and AI",
+      "location": "Bengaluru",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063123,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/rajesh-v-peter-50701a25",
+      "title": "Associate Head - Business Excellence at MANE KANCOR INGREDIENTS PRIVATE LIMITED",
+      "location": "Ernakulam",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063124,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-9abb99214",
+      "title": "Branch Operations Specialist at Magma HDI General Insurance Company Limited",
+      "location": "Siliguri",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063125,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-kinariwala-rao-2116179",
+      "title": "Director at Palm Alloy Steels Pvt Ltd & SR Steels",
+      "location": "Mumbai",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063126,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-918426174",
+      "title": "Army at Army National Guard",
+      "location": "Rajauri",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 22524063127,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-a29849a5",
+      "title": "Student at jwahar lal nehru govt eng. college sundernagar",
+      "location": "Mandi",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    }
+  ],
+  "member_awards_collection": [],
+  "member_certifications_collection": [
+    {
+      "id": 126521181,
+      "member_id": 308180966,
+      "name": "Coaching and Developing Employees",
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/company/linkedin?trk=public_profile_certification_authority_name",
+      "date_from": "April 2019",
+      "date_to": null,
+      "created": "2019-07-10 04:03:56",
+      "last_updated": "2019-08-13 03:48:32",
+      "deleted": 1
+    },
+    {
+      "id": 139973585,
+      "member_id": 308180966,
+      "name": "Coaching and Developing Employees",
+      "authority": "LinkedIn",
+      "url": "https://za.linkedin.com/company/linkedin?trk=public_profile_certification_authority_name",
+      "date_from": "April 2019",
+      "date_to": null,
+      "created": "2019-08-13 03:48:32",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 1
+    },
+    {
+      "id": 394096775,
+      "member_id": 308180966,
+      "name": "Coaching and Developing Employees",
+      "authority": "LinkedIn",
+      "url": "https://in.linkedin.com/company/linkedin",
+      "date_from": "April 2019",
+      "date_to": null,
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    }
+  ],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [],
+  "member_education_collection": [],
+  "member_experience_collection": [],
+  "member_groups_collection": [],
+  "member_interests_collection": [],
+  "member_languages_collection": [],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [
+    {
+      "id": 123065157,
+      "member_id": 308180966,
+      "recommendation": "“I have worked with Ruma for over 4 years. She has the ability to quickly grasp complex issues and has a very solution oriented approach. Great at building client relationships and excellent project management skills”",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    }
+  ],
+  "member_similar_profiles_collection": [
+    {
+      "id": 1566344187,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-9abb99214",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 1566344188,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-kinariwala-rao-2116179",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 1566344189,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-918426174",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    },
+    {
+      "id": 1566344190,
+      "member_id": 308180966,
+      "url": "https://in.linkedin.com/in/ruma-rao-a29849a5",
+      "created": "2022-03-28 23:12:00",
+      "last_updated": "2022-03-28 23:12:00",
+      "deleted": 0
+    }
+  ],
+  "member_skills_collection": [],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [],
+  "member_volunteering_opportunities_collection": [],
+  "member_volunteering_positions_collection": [],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": []
+}

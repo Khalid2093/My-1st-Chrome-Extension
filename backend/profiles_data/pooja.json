@@ -1,0 +1,786 @@
+{
+  "id": 25095137,
+  "name": "Puja Kampani",
+  "first_name": null,
+  "last_name": null,
+  "title": "HR Head at sanghvi & sons",
+  "url": "https://www.linkedin.com/in/puja-kampani-33b1b6ab",
+  "hash": "0469e924a5b55d06ab8bdd292b99aa02",
+  "location": "Surat, Gujarat, India",
+  "industry": "Luxury Goods & Jewelry",
+  "summary": null,
+  "connections": null,
+  "recommendations_count": "0",
+  "logo_url": "https://media-exp1.licdn.com/dms/image/C5603AQGJ2l65O3HKOA/profile-displayphoto-shrink_200_200/0/1517636544650?e=1645056000&v=beta&t=HZh8coL3Tw1HMscvTrB0a5OKyZCM6ovLKUvIck2FxGA",
+  "last_response_code": 200,
+  "created": "2016-07-28 08:11:25",
+  "last_updated": "2021-12-13 23:16:04",
+  "outdated": 0,
+  "deleted": 0,
+  "country": "India",
+  "connections_count": 0,
+  "experience_count": 3,
+  "last_updated_ux": 1639437364,
+  "member_shorthand_name": "puja-kampani-33b1b6ab",
+  "member_shorthand_name_hash": "c16e86da3b19bb8904c6a14630997a1b",
+  "canonical_url": "https://in.linkedin.com/in/puja-kampani-33b1b6ab",
+  "canonical_hash": "1b74bc828d75b892aa554308a7f1de42",
+  "canonical_shorthand_name": "puja-kampani-33b1b6ab",
+  "canonical_shorthand_name_hash": "c16e86da3b19bb8904c6a14630997a1b",
+  "member_also_viewed_collection": [
+    {
+      "id": 6627230557,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/kapilkatira?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-27 13:38:44",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1
+    },
+    {
+      "id": 6627230560,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/batul-javiwala-6a9093151?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-27 13:38:44",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1
+    },
+    {
+      "id": 6627230562,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/batul-jariwala-a5aa34144?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-27 13:38:44",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1
+    },
+    {
+      "id": 20931844747,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/pooja-kapania-57850a1b",
+      "title": "--",
+      "location": "India",
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    },
+    {
+      "id": 20931844748,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/chirag-patel-5b75ab16",
+      "title": "3X Strategy Implementor: Hates Advises that cant be Implemented. Sales + Result Oriented Process Consultant, Exp. : 11 Years",
+      "location": "Surat",
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    },
+    {
+      "id": 20931844749,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/puja-kampani-a97109139",
+      "title": "Head HR at GD Goenka International School",
+      "location": "Surat",
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    }
+  ],
+  "member_awards_collection": [],
+  "member_certifications_collection": [
+    {
+      "id": 1657221,
+      "member_id": 25095137,
+      "name": "Advanced communications and personality development from British council",
+      "authority": "Frankfinn",
+      "url": null,
+      "date_from": null,
+      "date_to": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2016-11-11 23:58:07",
+      "deleted": 1
+    },
+    {
+      "id": 47617874,
+      "member_id": 25095137,
+      "name": "Advanced communications and personality development from British council",
+      "authority": "british council kolkata",
+      "url": null,
+      "date_from": null,
+      "date_to": null,
+      "created": "2016-11-11 23:58:07",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    }
+  ],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [],
+  "member_education_collection": [
+    {
+      "id": 13663037,
+      "member_id": 25095137,
+      "title": "ICFAI",
+      "subtitle": "Master of Business Administration (MBA), HR",
+      "date_from": "2005",
+      "date_to": "2007",
+      "activities_and_societies": null,
+      "description": "<p>Activities and Societies: Inter B-schools debate and extempore competitions, b-school fests</p>",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "school_url": null
+    },
+    {
+      "id": 13663038,
+      "member_id": 25095137,
+      "title": "bhawanipore education society",
+      "subtitle": "b.com(hons), accountancy & economics",
+      "date_from": "2002",
+      "date_to": "2005",
+      "activities_and_societies": null,
+      "description": "<p>Activities and Societies: Inter college dance and music competitions, debates and various college fests</p>",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "school_url": null
+    },
+    {
+      "id": 620157391,
+      "member_id": 25095137,
+      "title": "ICFAI",
+      "subtitle": "Master of Business Administration (MBA), HR",
+      "date_from": "2005",
+      "date_to": "2007",
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-02-27 13:38:43",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "school_url": null
+    },
+    {
+      "id": 620157392,
+      "member_id": 25095137,
+      "title": "bhawanipore education society",
+      "subtitle": "b.com(hons), accountancy & economics",
+      "date_from": "2002",
+      "date_to": "2005",
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-02-27 13:38:43",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "school_url": null
+    },
+    {
+      "id": 1469056712,
+      "member_id": 25095137,
+      "title": "ICFAI",
+      "subtitle": "Master of Business Administration (MBA), HR",
+      "date_from": "2005",
+      "date_to": "2007",
+      "activities_and_societies": "Activities and Societies: Inter B-schools debate and extempore competitions, b-school fests",
+      "description": null,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "school_url": null
+    },
+    {
+      "id": 1469056713,
+      "member_id": 25095137,
+      "title": "bhawanipore education society",
+      "subtitle": "b.com(hons), accountancy & economics",
+      "date_from": "2002",
+      "date_to": "2005",
+      "activities_and_societies": "Activities and Societies: Inter college dance and music competitions, debates and various college fests",
+      "description": null,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "school_url": null
+    }
+  ],
+  "member_experience_collection": [
+    {
+      "id": 30788364,
+      "member_id": 25095137,
+      "title": "HR Head",
+      "location": null,
+      "company_name": "sanghvi & sons",
+      "company_url": "https://www.linkedin.com/company/sanghvi-&-sons",
+      "date_from": "September 2012",
+      "date_to": null,
+      "duration": null,
+      "description": "<p class=\"description\" data-section=\"currentPositions\">taking care of all generalist HR activities which includes Recruitment, Soft Skills training, PMS, Grievance handling, Employee engagement activities, Task Management and so on for their Surat, Mumbai and Rajasthan Office.<br>Also actively involved with their service vertical, Winnovation Forefront consultants Pvt ltd, taking care of Life-skills project in several educational Institutes.</p>",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "order_in_profile": null,
+      "company_id": 4609517
+    },
+    {
+      "id": 30788365,
+      "member_id": 25095137,
+      "title": "Trainer",
+      "location": null,
+      "company_name": "Frankfinn",
+      "company_url": null,
+      "date_from": "January 2012",
+      "date_to": "August 2012",
+      "duration": "8 months",
+      "description": "<p class=\"description\" data-section=\"pastPositions\">mentoring and grooming aspiring students of Aviation and Hospitality Management, in Communication &amp; Behavioral skills as well as Personality Development along with developing marketing communication materials, case studies, media interaction materials and blogs.</p>",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "order_in_profile": 2,
+      "company_id": null
+    },
+    {
+      "id": 30788366,
+      "member_id": 25095137,
+      "title": "chief centre head",
+      "location": null,
+      "company_name": "kuoni academy",
+      "company_url": null,
+      "date_from": "June 2009",
+      "date_to": "January 2011",
+      "duration": "1 year 8 months",
+      "description": "<p class=\"description\" data-section=\"pastPositions\">Responsibilities included the management of two centres: Kuoni Academy where Travel and Hospitality related courses were offered and HCL career development centre where students were trained in Software and Hardware Networking courses.<br>This profile included supervising and managing all areas of work towards the launch and subsequent operations of both centres efficiently. <br>Responsibilities included setting up the systems, procedures and policies of both the centres including recruitment and selection of total staff and HR policies, ensuring smooth operational &amp; Administrative operations of the centre.</p>",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "order_in_profile": 3,
+      "company_id": null
+    },
+    {
+      "id": 1625380994,
+      "member_id": 25095137,
+      "title": "HR Head",
+      "location": null,
+      "company_name": "sanghvi & sons",
+      "company_url": "https://hu.linkedin.com/company/sanghvi-&-sons",
+      "date_from": "September 2012",
+      "date_to": null,
+      "duration": null,
+      "description": "<p class=\"item-body--margin-left item-body--title-small\">taking care of all generalist HR activities which includes Recruitment, Soft Skills training, PMS, Grievance handling, Employee engagement activities, Task Management and so on for their Surat, Mumbai and Rajasthan Office.<br>Also actively involved with their service vertical, Winnovation Forefront consultants Pvt ltd, taking care of Life-skills project in several educational Institutes.</p>",
+      "created": "2019-02-27 13:38:43",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "order_in_profile": 1,
+      "company_id": 4609517
+    },
+    {
+      "id": 2902237481,
+      "member_id": 25095137,
+      "title": "HR Head",
+      "location": null,
+      "company_name": "sanghvi & sons",
+      "company_url": "https://hu.linkedin.com/company/sanghvi-&-sons",
+      "date_from": "September 2012",
+      "date_to": null,
+      "duration": null,
+      "description": "taking care of all generalist HR activities which includes Recruitment, Soft Skills training, PMS, Grievance handling, Employee engagement activities, Task Management and so on for their Surat, Mumbai and Rajasthan Office.\nAlso actively involved with their service vertical, Winnovation Forefront consultants Pvt ltd, taking care of Life-skills project in several educational Institutes.",
+      "created": "2021-12-13 23:16:04",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "order_in_profile": 1,
+      "company_id": null
+    },
+    {
+      "id": 2902237482,
+      "member_id": 25095137,
+      "title": "Trainer",
+      "location": null,
+      "company_name": "Frankfinn",
+      "company_url": null,
+      "date_from": "January 2012",
+      "date_to": "August 2012",
+      "duration": "8 months",
+      "description": "mentoring and grooming aspiring students of Aviation and Hospitality Management, in Communication & Behavioral skills as well as Personality Development along with developing marketing communication materials, case studies, media interaction materials and blogs.",
+      "created": "2021-12-13 23:16:04",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "order_in_profile": 2,
+      "company_id": null
+    },
+    {
+      "id": 2902237483,
+      "member_id": 25095137,
+      "title": "chief centre head",
+      "location": null,
+      "company_name": "kuoni academy",
+      "company_url": null,
+      "date_from": "June 2009",
+      "date_to": "January 2011",
+      "duration": "1 year 8 months",
+      "description": "Responsibilities included the management of two centres: Kuoni Academy where Travel and Hospitality related courses were offered and HCL career development centre where students were trained in Software and Hardware Networking courses.\nThis profile included supervising and managing all areas of work towards the launch and subsequent operations of both centres efficiently.\nResponsibilities included setting up the systems, procedures and policies of both the centres including recruitment and selection of total staff and HR policies, ensuring smooth operational & Administrative operations of the centre.",
+      "created": "2021-12-13 23:16:04",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "order_in_profile": 3,
+      "company_id": null
+    }
+  ],
+  "member_groups_collection": [
+    {
+      "id": 10514367,
+      "member_id": 25095137,
+      "name": "HRD INDIA NETWORK",
+      "url": "https://www.linkedin.com/groups?gid=2247031&trk=prof-groups-membership-name",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1
+    },
+    {
+      "id": 739726917,
+      "member_id": 25095137,
+      "name": "HRD INDIA NETWORK",
+      "url": "https://www.linkedin.com/groups/2247031",
+      "created": "2019-02-27 13:38:43",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    }
+  ],
+  "member_interests_collection": [],
+  "member_languages_collection": [
+    {
+      "id": 5341442,
+      "member_id": 25095137,
+      "language_id": 1,
+      "proficiency_id": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "member_language_list": {
+        "id": 1,
+        "language": "english",
+        "hash": "ba0a6ddd94c73698a3658f92ac222f8a",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      },
+      "member_language_proficiency_list": {}
+    },
+    {
+      "id": 5341443,
+      "member_id": 25095137,
+      "language_id": 4,
+      "proficiency_id": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "member_language_list": {
+        "id": 4,
+        "language": "hindi",
+        "hash": "13a2927187b9700ae7ea82d7841d5b68",
+        "created": "2016-07-22 14:26:03",
+        "last_updated": "2016-07-22 14:26:03"
+      },
+      "member_language_proficiency_list": {}
+    },
+    {
+      "id": 5341444,
+      "member_id": 25095137,
+      "language_id": 27,
+      "proficiency_id": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "member_language_list": {
+        "id": 27,
+        "language": "bengali",
+        "hash": "4f5c215f339ca9c3aea6c8c36faeb23c",
+        "created": "2016-07-22 14:26:21",
+        "last_updated": "2016-07-22 14:26:21"
+      },
+      "member_language_proficiency_list": {}
+    },
+    {
+      "id": 5341445,
+      "member_id": 25095137,
+      "language_id": 32,
+      "proficiency_id": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "member_language_list": {
+        "id": 32,
+        "language": "gujarati",
+        "hash": "8005419b2415988b63ecad461a7d4e30",
+        "created": "2016-07-22 14:26:29",
+        "last_updated": "2016-07-22 14:26:29"
+      },
+      "member_language_proficiency_list": {}
+    },
+    {
+      "id": 5341446,
+      "member_id": 25095137,
+      "language_id": 2,
+      "proficiency_id": null,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "member_language_list": {
+        "id": 2,
+        "language": "french",
+        "hash": "64e12ab6aa0d4c7473286d43b6a35fc8",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      },
+      "member_language_proficiency_list": {}
+    },
+    {
+      "id": 205758226,
+      "member_id": 25095137,
+      "language_id": 1,
+      "proficiency_id": 172,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 1,
+        "language": "english",
+        "hash": "ba0a6ddd94c73698a3658f92ac222f8a",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      },
+      "member_language_proficiency_list": {
+        "id": 172,
+        "proficiency": "-",
+        "hash": "336d5ebc5436534e61d16e63ddfca327",
+        "created": "2021-01-28 19:46:40",
+        "last_updated": "2021-01-28 19:46:40"
+      }
+    },
+    {
+      "id": 205758227,
+      "member_id": 25095137,
+      "language_id": 4,
+      "proficiency_id": 172,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 4,
+        "language": "hindi",
+        "hash": "13a2927187b9700ae7ea82d7841d5b68",
+        "created": "2016-07-22 14:26:03",
+        "last_updated": "2016-07-22 14:26:03"
+      },
+      "member_language_proficiency_list": {
+        "id": 172,
+        "proficiency": "-",
+        "hash": "336d5ebc5436534e61d16e63ddfca327",
+        "created": "2021-01-28 19:46:40",
+        "last_updated": "2021-01-28 19:46:40"
+      }
+    },
+    {
+      "id": 205758228,
+      "member_id": 25095137,
+      "language_id": 27,
+      "proficiency_id": 172,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 27,
+        "language": "bengali",
+        "hash": "4f5c215f339ca9c3aea6c8c36faeb23c",
+        "created": "2016-07-22 14:26:21",
+        "last_updated": "2016-07-22 14:26:21"
+      },
+      "member_language_proficiency_list": {
+        "id": 172,
+        "proficiency": "-",
+        "hash": "336d5ebc5436534e61d16e63ddfca327",
+        "created": "2021-01-28 19:46:40",
+        "last_updated": "2021-01-28 19:46:40"
+      }
+    },
+    {
+      "id": 205758229,
+      "member_id": 25095137,
+      "language_id": 32,
+      "proficiency_id": 172,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 32,
+        "language": "gujarati",
+        "hash": "8005419b2415988b63ecad461a7d4e30",
+        "created": "2016-07-22 14:26:29",
+        "last_updated": "2016-07-22 14:26:29"
+      },
+      "member_language_proficiency_list": {
+        "id": 172,
+        "proficiency": "-",
+        "hash": "336d5ebc5436534e61d16e63ddfca327",
+        "created": "2021-01-28 19:46:40",
+        "last_updated": "2021-01-28 19:46:40"
+      }
+    },
+    {
+      "id": 205758230,
+      "member_id": 25095137,
+      "language_id": 2,
+      "proficiency_id": 172,
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 2,
+        "language": "french",
+        "hash": "64e12ab6aa0d4c7473286d43b6a35fc8",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      },
+      "member_language_proficiency_list": {
+        "id": 172,
+        "proficiency": "-",
+        "hash": "336d5ebc5436534e61d16e63ddfca327",
+        "created": "2021-01-28 19:46:40",
+        "last_updated": "2021-01-28 19:46:40"
+      }
+    }
+  ],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [],
+  "member_similar_profiles_collection": [
+    {
+      "id": 1340727465,
+      "member_id": 25095137,
+      "url": "https://in.linkedin.com/in/puja-kampani-a97109139",
+      "created": "2021-12-13 23:16:04",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0
+    }
+  ],
+  "member_skills_collection": [
+    {
+      "id": 60090438,
+      "member_id": 25095137,
+      "skill_id": 1823986,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 1823986,
+        "skill": "training, recruitment, hris, content development",
+        "hash": "614b7e1819bfd046812f07b59b65c877",
+        "created": "2016-07-28 08:11:24",
+        "last_updated": "2016-07-28 08:11:24"
+      }
+    }
+  ],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [
+    {
+      "id": 6164727,
+      "member_id": 25095137,
+      "care_id": 3,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 3,
+        "care": "children",
+        "hash": "268184c12df027f536154d099d497b31",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    },
+    {
+      "id": 6164728,
+      "member_id": 25095137,
+      "care_id": 5,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 5,
+        "care": "economic empowerment",
+        "hash": "ada5bfbfdd26ef98bd938ed1dc4652e3",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    },
+    {
+      "id": 6164729,
+      "member_id": 25095137,
+      "care_id": 6,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 6,
+        "care": "education",
+        "hash": "d0bb80aabb8619b6e35113f02e72752b",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    },
+    {
+      "id": 6164730,
+      "member_id": 25095137,
+      "care_id": 8,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 8,
+        "care": "health",
+        "hash": "555bf8344ca0caf09b42f55e185526d8",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    },
+    {
+      "id": 6164731,
+      "member_id": 25095137,
+      "care_id": 9,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 9,
+        "care": "human rights",
+        "hash": "ca7b9475d1cd3d88316cb9fa6cb7fa67",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    },
+    {
+      "id": 6164732,
+      "member_id": 25095137,
+      "care_id": 10,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "member_volunteering_care_list": {
+        "id": 10,
+        "care": "disaster and humanitarian relief",
+        "hash": "26a0d8a9da93a35f7debe31e913e1198",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    }
+  ],
+  "member_volunteering_opportunities_collection": [
+    {
+      "id": 569451,
+      "member_id": 25095137,
+      "opportunity_id": 2,
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2017-10-17 02:54:40",
+      "deleted": 1,
+      "member_volunteering_opportunity_list": {
+        "id": 2,
+        "opportunity": "skills-based volunteering (pro bono consulting)",
+        "hash": "4c0b9f917554860acb29b90a31cf723f",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    }
+  ],
+  "member_volunteering_positions_collection": [
+    {
+      "id": 1067384,
+      "member_id": 25095137,
+      "organization": "ngo camp",
+      "role": "blood doner",
+      "cause_id": 9,
+      "date_from": "February 2009",
+      "date_to": "February 2009",
+      "duration": "1 month",
+      "created": "2016-07-28 08:11:25",
+      "last_updated": "2017-10-17 02:54:40",
+      "deleted": 1,
+      "description": null,
+      "organization_url": null,
+      "member_volunteering_positions_cause_list": {
+        "id": 9,
+        "cause": "health",
+        "hash": "555bf8344ca0caf09b42f55e185526d8",
+        "created": "2016-07-22 14:28:05",
+        "last_updated": "2016-07-22 14:28:05"
+      }
+    },
+    {
+      "id": 46656265,
+      "member_id": 25095137,
+      "organization": "ngo camp",
+      "role": "blood doner",
+      "cause_id": 9,
+      "date_from": "February 2009",
+      "date_to": "February 2009",
+      "duration": "1 month",
+      "created": "2017-10-17 02:54:41",
+      "last_updated": "2019-02-27 13:38:43",
+      "deleted": 1,
+      "description": "it was just a one day camp, where in we donated blood.",
+      "organization_url": null,
+      "member_volunteering_positions_cause_list": {
+        "id": 9,
+        "cause": "health",
+        "hash": "555bf8344ca0caf09b42f55e185526d8",
+        "created": "2016-07-22 14:28:05",
+        "last_updated": "2016-07-22 14:28:05"
+      }
+    },
+    {
+      "id": 79091641,
+      "member_id": 25095137,
+      "organization": "ngo camp",
+      "role": "blood doner",
+      "cause_id": 9,
+      "date_from": null,
+      "date_to": null,
+      "duration": null,
+      "created": "2019-02-27 13:38:44",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 1,
+      "description": "it was just a one day camp, where in we donated blood.",
+      "organization_url": null,
+      "member_volunteering_positions_cause_list": {
+        "id": 9,
+        "cause": "health",
+        "hash": "555bf8344ca0caf09b42f55e185526d8",
+        "created": "2016-07-22 14:28:05",
+        "last_updated": "2016-07-22 14:28:05"
+      }
+    },
+    {
+      "id": 210724785,
+      "member_id": 25095137,
+      "organization": "ngo camp",
+      "role": "blood doner",
+      "cause_id": 9,
+      "date_from": "February 2009",
+      "date_to": "February 2009",
+      "duration": "1 month",
+      "created": "2021-12-13 23:16:05",
+      "last_updated": "2021-12-13 23:16:04",
+      "deleted": 0,
+      "description": "it was just a one day camp, where in we donated blood.",
+      "organization_url": null,
+      "member_volunteering_positions_cause_list": {
+        "id": 9,
+        "cause": "health",
+        "hash": "555bf8344ca0caf09b42f55e185526d8",
+        "created": "2016-07-22 14:28:05",
+        "last_updated": "2016-07-22 14:28:05"
+      }
+    }
+  ],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": []
+}

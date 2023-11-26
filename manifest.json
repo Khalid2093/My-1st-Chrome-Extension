@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Age Finder Extension",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icons8-war-thunder-16.png",
+      "48": "images/icons8-war-thunder-48.png",
+      "128": "images/icons8-war-thunder-128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

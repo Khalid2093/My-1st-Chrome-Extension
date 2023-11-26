@@ -1,0 +1,301 @@
+{
+  "id": 612315270,
+  "name": "Wylie Aronow",
+  "first_name": "Wylie",
+  "last_name": "Aronow",
+  "title": "Co-Founder at Yuga Labs",
+  "url": "https://www.linkedin.com/in/wylie-aronow-5b4131242",
+  "hash": "25c5fd5751137920a1db3a05be7d7ffb",
+  "location": "Miami, Florida, United States",
+  "industry": null,
+  "summary": null,
+  "connections": "7 connections",
+  "recommendations_count": "0",
+  "logo_url": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+  "last_response_code": 200,
+  "created": "2022-12-06 15:52:14",
+  "last_updated": "2022-12-07 15:49:44",
+  "outdated": 0,
+  "deleted": 0,
+  "country": "United States",
+  "connections_count": 7,
+  "experience_count": 1,
+  "last_updated_ux": 1670428184,
+  "member_shorthand_name": "wylie-aronow-5b4131242",
+  "member_shorthand_name_hash": "d0b1c24bceadcc3a091e8cccb7daa377",
+  "canonical_url": "https://www.linkedin.com/in/wylie-aronow-5b4131242",
+  "canonical_hash": "25c5fd5751137920a1db3a05be7d7ffb",
+  "canonical_shorthand_name": "wylie-aronow-5b4131242",
+  "canonical_shorthand_name_hash": "d0b1c24bceadcc3a091e8cccb7daa377",
+  "member_also_viewed_collection": [
+    {
+      "id": 27779171207,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/nosass",
+      "title": "Founder at Yuga Labs",
+      "location": "United States",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171208,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/nicolemuniz",
+      "title": "Full-Stack Executive | Managing Partner | Advisor",
+      "location": "New York, NY",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171209,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/christophermlyons",
+      "title": "General Partner at Andreessen Horowitz",
+      "location": "San Francisco, CA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171210,
+      "member_id": 612315270,
+      "url": "https://ae.linkedin.com/in/jakub-chmielniak-jakubx-eth-83841740",
+      "title": "BAYC and Fancy Bears member / Working on Dynamic NFTs & Asset Compatibility Infrastructure Trait Swap",
+      "location": "Dubai, United Arab Emirates",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171211,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/yuga-etk",
+      "title": "Co-Founder / CTO",
+      "location": "United States",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171212,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/haleyross",
+      "title": "Head of Strategy at Yuga Labs",
+      "location": "New York, NY",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171213,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/nathanielcosta",
+      "title": "Creative",
+      "location": "Berkeley, CA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171214,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/dannygreene82",
+      "title": "Meebits Brand Lead, Yuga Labs",
+      "location": "Santa Monica, CA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171215,
+      "member_id": 612315270,
+      "url": "https://dk.linkedin.com/in/august-callsen-0897311a0",
+      "title": "Web3 Advisor, Builder & Marketer. Consulted 100+ Brands & Celebrities - Specialized In Community Building For Brands. Web3 Top Voices Denmark.",
+      "location": "Copenhagen",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171216,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/jasminshoemaker",
+      "title": "Chief Operating Officer at Yuga Labs",
+      "location": "United States",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171217,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/dean-krauss-40801955",
+      "title": "Partner & Managing Director at Friendly Trading",
+      "location": "Saddle River, NJ",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171218,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/bdhoffman",
+      "title": "Pre/Seed VC | ex-Samsung Next | ex-Morgan Stanley | ex-music creator | Co-Founder @ Diverse Angels | Board Member @ Toigo",
+      "location": "Los Angeles Metropolitan Area",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171219,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/paulmbillings",
+      "title": "Vice President Operations at Yuga Labs",
+      "location": "Los Angeles, CA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171220,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/andrewmedal",
+      "title": "Entrepreneur + Angel Investor. Host @Entrepreneur + Top 50 Podcast. Passion #PrisonReform.",
+      "location": "Orange County, CA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171221,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/chadcalcagno",
+      "title": "VP, Brand Production at Yuga Labs",
+      "location": "Pittsburgh, PA",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171222,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/hannah-wexler",
+      "title": "Designer at Yuga Labs",
+      "location": "New York, NY",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171223,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/jeff-rix",
+      "title": "Web3/AI Engineer, Metaverse, Entrepreneur, Investor, BAYC",
+      "location": "Austin, TX",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171224,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/gravitytalentpartners",
+      "title": "Leading Source for Management & Executive Leadership",
+      "location": "Greater Boston",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171225,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/spencer-t-ba6b7418",
+      "title": "CGO @ Yuga Labs",
+      "location": "San Francisco Bay Area",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171226,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/621",
+      "title": "Chief of Staff at Yuga Labs",
+      "location": "New York, NY",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    },
+    {
+      "id": 27779171227,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/wylie-aronow-17150a237",
+      "title": "Co-founder na Yuga Labs Meme",
+      "location": "Delaware, United States",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    }
+  ],
+  "member_awards_collection": [],
+  "member_certifications_collection": [],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [],
+  "member_education_collection": [],
+  "member_experience_collection": [
+    {
+      "id": 3235082124,
+      "member_id": 612315270,
+      "title": "Co-Founder",
+      "location": null,
+      "company_name": "Yuga Labs",
+      "company_url": "https://es.linkedin.com/company/yuga-labs",
+      "date_from": null,
+      "date_to": null,
+      "duration": null,
+      "description": null,
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0,
+      "order_in_profile": 1,
+      "company_id": 88004750
+    }
+  ],
+  "member_groups_collection": [],
+  "member_interests_collection": [],
+  "member_languages_collection": [],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [],
+  "member_similar_profiles_collection": [
+    {
+      "id": 2194501790,
+      "member_id": 612315270,
+      "url": "https://www.linkedin.com/in/wylie-aronow-17150a237",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    }
+  ],
+  "member_skills_collection": [],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [],
+  "member_volunteering_opportunities_collection": [],
+  "member_volunteering_positions_collection": [],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": [
+    {
+      "id": 781010800,
+      "member_id": 612315270,
+      "website": "twitter.com/gordongoner",
+      "created": "2022-12-06 15:52:14",
+      "last_updated": "2022-12-07 15:49:44",
+      "deleted": 0
+    }
+  ]
+}
